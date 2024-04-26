@@ -2,7 +2,7 @@
 
 :root {
     --cor-de-fundo: #131313;
-    --verde: #ecfd00;
+    --amarelo: #ecfd00;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -33,7 +33,7 @@ body {
 }
 
 .titulo-principal span {
-    color: var(--verde);
+    color: var(--amarelo);
 }
 
 
@@ -85,7 +85,7 @@ body {
 }
 .aba-conteudo-titulo-secundario{
     text-align: center;
-    color: var(--verde);
+    color: var(--amarelo);
     text-transform: uppercase;
 }
 
@@ -107,7 +107,7 @@ body {
 }
 
 .contador-digito-texto{
-    color: var(--verde);
+    color: var(--amarelo);
     font-size: 20px;
     margin: 0;
 
