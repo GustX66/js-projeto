@@ -127,6 +127,10 @@ body {
     }
 }
 
+.center {
+    align-items: center;
+}
+
 .btn {
     background-color: #ff6f00;
     border: none;
