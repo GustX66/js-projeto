@@ -2,7 +2,7 @@
 
 :root {
     --cor-de-fundo: #131313;
-    --amarelo: #ecfd00;
+    --amarelo: #ff6f00;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -128,7 +128,7 @@ body {
 }
 
 .btn {
-    background-color: #4caf50;
+    background-color: #ff6f00;
     border: none;
     color: white;
     padding: 15px 32px;
